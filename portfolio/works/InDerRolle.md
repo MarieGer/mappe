@@ -7,7 +7,7 @@ order: 1
 
 <img :src="$withBase('/upload/1-1.jpeg')" style="  margin-left: auto;margin-right: auto;max-width:1024px; display: block;"> 
 
-<p style="font-family:Cursive;">
+<p style="font-family:Brush Script MT, Cursive; font-size: 20px; ">
 <b>Intro</b> <br><br>
 Danke.  <br>
 Danke, dass ihr alle den Weg hierher gefunden habt.  <br>
@@ -21,7 +21,9 @@ dass wir bewundert werden.  <br><br>
 Wir möchten uns bedanken, "wenn kluge Männer sprechen,dass wir verstehen können, wie sie es meinen."  <br>
 Wir möchten uns bedanken, "dass man uns an diesen Tagen hier aufs Land gebracht."  <br>
 Danke! <br>
-"Wir können hier unser sein, und uns stundenlang in die goldene Zeit der Dichter träumen."
+"Wir können hier unser sein, und uns stundenlang in die goldene Zeit der Dichter träumen." <br>
+<br>
+ (in Anführungszeichen: Zitate Torquato Tasso von J. W. Goethe)
 </p>
 <br>
 <br>
@@ -33,7 +35,7 @@ Danke! <br>
 <p style="text-align:left;margin-left: 50px;"><b>In der Rolle –</b> <br>    
 eine Inszenierung in Zusammenarbeit<br>  
 mit Ronja S. Und Julieta J.<br>  
-aus dem Wintersemester 2018<br>  
+aus dem Wintersemester 2017/2018<br>  
 Ausgangspunkt:<br>  
 Unsere Auseinandersetzung<br>   
 mit dem Stück Torquato Tasso<br>  
@@ -68,9 +70,11 @@ auf einem Sockel ausgestellt.
 
 
 <p style="text-align:left;margin-left: 50px;">
+<br>
+<br>
 Die von uns choreografierten Bewegungssequenzen entstanden aus gestischer Forschung, <br>
 innerhalb unserer eigenen Biografien und Erfahrungen des Festgeschrieben-Seins <br>
-in geschlechtsspezifischen Zuschreibungen.
+in geschlechtsspezifischen Zuschreibungen.<br><br>
 </p> 
 <img :src="$withBase('/upload/1-7.jpeg')" style="  margin-left:100px ;margin-right: auto;max-width:700px; display: block;">
 
@@ -87,24 +91,54 @@ Seit Jahrhunderten.
 <img :src="$withBase('/upload/1-4.jpeg')" style="  margin-left:auto ;margin-right: 100px;max-width:700px; display: block;">
 
 <p style="text-align:left;margin-left: 5px;">
-Wir bewegen uns in diesen Rollen, füllen sie aus, sind in der Lage sie zu bewegen und zu verschieben.
+<br>
+Wir bewegen uns <br>
+in diesen Rollen, <br>
+füllen sie aus, <br>
+sind in der Lage <br>sie zu bewegen <br>
+und zu verschieben.<br>
 </p>
 
 <img :src="$withBase('/upload/1-9.jpeg')" style="  margin-left:auto ;margin-right: 150px;max-width:600px; display: block;">
-
+<br><br><br>
 <img :src="$withBase('/upload/1-8.jpeg')" style="  margin-left:auto ;margin-right: auto;max-width:800px; display: block;">
 
-<p style="text-align:right;margin-right: 200px;">
-Durch das verschieben der Rolle erlangen die Säulen-artigen Figuren eine neue Bewegungsfreiheit, versperren jedoch ihre Sicht durch die Rolle.
+<p style="text-align:left;margin-left: 5px;">
+<br>
+Durch das verschieben der Rolle erlangen die Säulen-artigen Figuren eine neue Bewegungsfreiheit, <br>
+versperren jedoch ihre Sicht durch die Rolle.<br>
 </p> 
+<img :src="$withBase('/upload/1-10.jpeg')" style="  margin-left:auto ;margin-right: 100px;max-width:700px; display: block;">
+
 <p style="text-align:right;margin-right: 200px;">
-Auf dem Weg, uns aus der Rolle herauszubewegen, sehen wir doch nur das, was innerhalb der Rolle sichtbar ist.
-</p>
-<p style="text-align:right;margin-right: 200px;">
-Alter Stoff lässt sich auf neue Art und Weise lesen und wir stehen vor der Herausforderung, unseren Blick zu schärfen um aus einem alten Vokabular heraus, in Vielstimmigkeit neue Sagbarkeiten und Ästhetiken entstehen zu lassen die uns ermöglichen sollen, uns aus den Rollen Stück für Stück zu lösen.
+Auf <br>
+dem Weg, <br>
+uns aus <br>
+der Rolle <br>
+heraus <br>
+zu bewegen, <br>
+sehen <br>
+wir doch <br>
+nur das, <br>
+was <br>
+innerhalb <br>
+der Rolle <br>
+sichtbar <br>
+ist.
 </p>
 
+<img :src="$withBase('/upload/1-11.jpeg')" style="  margin-left:auto ;margin-right: auto;max-width:800px; display: block;">
 
+<p style="text-align:left;margin-left: 100px;">
+Alter Stoff lässt sich auf neue Art und Weise lesen <br>
+und wir stehen vor der Herausforderung, unseren Blick zu schärfen <br>
+um aus einem alten Vokabular heraus, <br>
+in Vielstimmigkeit <br>
+neue Sagbarkeiten und Ästhetiken entstehen zu lassen <br>
+die uns ermöglichen sollen, uns aus den Rollen Stück für Stück zu lösen.
+</p>
+
+<img :src="$withBase('/upload/1-12.jpeg')" style="  margin-left:auto ;margin-right: 100px;max-width:600px; display: block;">
 
 
 
