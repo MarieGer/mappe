@@ -6,7 +6,7 @@
     "favicon": "favicon-32x32.png",
     "navigation": [
       {
-        "text": "Works",
+        "text": "home",
         "link": "/",
         "position": "left",
         "external": false
