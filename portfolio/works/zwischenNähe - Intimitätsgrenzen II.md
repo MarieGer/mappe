@@ -68,17 +68,18 @@ Performance?<br>
 </p>
 <img :src="$withBase('/upload/3-5.0.jpg')" style="  margin-left:auto ;margin-right: 200px;max-width:700px; display: block;">
 
-<img :src="$withBase('/upload/3-5.1.jpg')" style="  margin-left:auto ;margin-right: auto;max-width:700px; display: block;">
-<img :src="$withBase('/upload/3-5.2.jpg')" style="  margin-left:auto ;margin-right: auto;max-width:700px; display: block;">
-<img :src="$withBase('/upload/3-5.3.jpg')" style="  margin-left:auto ;margin-right: auto;max-width:700px; display: block;">
-<img :src="$withBase('/upload/3-5.4.jpg')" style="  margin-left:auto ;margin-right: auto;max-width:700px; display: block;">
-<img :src="$withBase('/upload/3-5.5.jpg')" style="  margin-left:auto ;margin-right: auto;max-width:700px; display: block;">
-<img :src="$withBase('/upload/3-5.6.jpg')" style="  margin-left:auto ;margin-right: auto;max-width:700px; display: block;">
 
+<iframe src="https://player.vimeo.com/video/432787774" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/432787823" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/432787958" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/432787896" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/432787866" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/432787713" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-
-
-
+<p style=" font-size: 13px; text-align:right;margin-right: 50px;">
+<br> <br> <br>
+Die Fotos habe ich mit einer Einmal-Kamera gemacht. <br>
+Die Voice-Aufnahmen stammen von meinen Übernachtungs-Hosts Charly, Abd, Mama, Julieta, Franz und Atefeh.</p> 
 
 
 

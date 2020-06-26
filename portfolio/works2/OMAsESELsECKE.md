@@ -1,9 +1,9 @@
 ---
-title: OMAsESELsECKE
+title: OMAs ESELsECKE
 thumbnail: "/upload/thumbnails/4-1.jpg"
 order: 1
 ---
-# OMAsESELsECKE
+# OMAs ESELsECKE
 
 <img :src="$withBase('/upload/4-1.jpg')" style="  margin-left: auto;margin-right: auto;max-width:1024px; display: block;"> 
 
