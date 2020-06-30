@@ -58,9 +58,11 @@ wenn ich mich hinein begebe. <br>
 Manchmal. <br>
 Wenn ich will!<br>
 </p>
-<img :src="$withBase('/upload/4-6.jpg')" style="  margin-left:auto ;margin-right: 200px;max-width:700px; display: block;">
-<img :src="$withBase('/upload/4-7.png')" style="  margin-left:auto ;margin-right: 200px;max-width:700px; display: block;">
 
+<div style="text-align: center;">
+<img :src="$withBase('/upload/4-6.jpg')" style="max-width:600px; display: inline-block; vertical-align: top;">
+<img :src="$withBase('/upload/4-7.png')" style="max-width:600px; display: inline-block; vertical-align: top;">
+</div>
 <p style=" font-size: 12px; text-align:right;margin-right: 50px;">
 <br> <br> <br>
 Zeichnungen: Raja Goltz</p> 

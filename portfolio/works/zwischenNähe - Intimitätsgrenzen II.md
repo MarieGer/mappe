@@ -5,7 +5,7 @@ order: 3
 ---
 # zwischenNähe - Intimitätsgrenzen II
 
-<img :src="$withBase('/upload/3-1.jpg')" style="  margin-left: auto;margin-right: auto;max-width:1024px; display: block;"> 
+<img :src="$withBase('/upload/3-1.jpg')" style="  margin-left: auto;margin-right: auto;max-width:900px; display: block;"> 
 
 
 
@@ -67,15 +67,14 @@ in Worten.<br>
 Performance?<br>
 </p>
 <img :src="$withBase('/upload/3-5.0.jpg')" style="  margin-left:auto ;margin-right: 200px;max-width:700px; display: block;">
-
-
-<iframe src="https://player.vimeo.com/video/432787774" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<iframe src="https://player.vimeo.com/video/432787823" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<iframe src="https://player.vimeo.com/video/432787958" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<iframe src="https://player.vimeo.com/video/432787896" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<iframe src="https://player.vimeo.com/video/432787866" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<iframe src="https://player.vimeo.com/video/432787713" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
+<div style="text-align: center">
+<iframe src="https://player.vimeo.com/video/432787774" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen style="margin: 0 auto; display: inline-block;"></iframe>
+<iframe src="https://player.vimeo.com/video/432787823" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen style="margin: 0 auto; display: inline-block;"></iframe>
+<iframe src="https://player.vimeo.com/video/432787958" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen style="margin: 0 auto; display: inline-block;"></iframe>
+<iframe src="https://player.vimeo.com/video/432787896" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen style="margin: 0 auto; display: inline-block;"></iframe>
+<iframe src="https://player.vimeo.com/video/432787866" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen style="margin: 0 auto; display: inline-block;"></iframe>
+<iframe src="https://player.vimeo.com/video/432787713" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen style="margin: 0 auto; display: inline-block;"></iframe>
+</div>
 <p style=" font-size: 12px; text-align:right;margin-right: 50px;">
 <br> <br> <br>
 Die Fotos habe ich mit einer Einmal-Kamera gemacht. <br>
