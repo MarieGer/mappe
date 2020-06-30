@@ -7,7 +7,7 @@ order: 1
 
 <img :src="$withBase('/upload/1-1.jpeg')" style="  margin-left: auto;margin-right: auto;max-width:1024px; display: block;"> 
 
-<p style="font-family: Cursive; font-size: 17px; ">
+<p style="font-family: 'Dancing Script', Cursive; font-size: 20px; ">
 <b>Intro</b> <br><br>
 Danke.  <br>
 Danke, dass ihr alle den Weg hierher gefunden habt.  <br>

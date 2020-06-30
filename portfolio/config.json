@@ -1,21 +1,27 @@
 {
     "title": "Marie Gerwing",
     "description": "Portfolio",
-    "logo": "/upload/logo.svg",
+    "logo": "/favicon-32x32.png",
     "footer": "",
     "favicon": "favicon-32x32.png",
     "navigation": [
       {
-        "text": "home",
+        "text": "Home",
         "link": "/",
         "position": "left",
         "external": false
       },
       {
-        "text": "",
-        "link": "m@hotmail.com",
-        "position": "right",
-        "external": true
+        "text": "Performance",
+        "link": "/works3/PERFORMANCE",
+        "position": "left",
+        "external": false
+      },
+      {
+        "text": "Workshops",
+        "link": "/works3/WORKSHOPS",
+        "position": "left",
+        "external": false
       }
     ]
   }

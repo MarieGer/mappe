@@ -178,7 +178,7 @@ Strukturelle Absurdität. <br> <br>
 </p>
 
 
-<p style="font-family: Cursive; font-size: 18px; text-align:left;margin-left: 400px;">
+<p style="font-family: 'Dancing Script', Cursive; font-size: 20px; text-align:left;margin-left: 400px;">
 <b>Der Pass</b> <br><br>
 Der Pass ist der edelste Teil<br>
 von einem Menschen.<br>

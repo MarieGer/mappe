@@ -21,7 +21,7 @@
       </div>
 
     </div>
-
+    <button href="#" @click="goBack" style="border: none; background: transparent; padding: 2rem; border-radius: 50%; margin-left: 5vw;"> Zurück</button>
     <Footer />
 
   </div>
@@ -45,6 +45,11 @@
         }
       }
     },
+    methods: {
+      goBack () {
+        window.history.back()
+      }
+    },
     updated() {
         // unwrap all images from paragraph tags so we can have
         // different widths inside the content.
@@ -66,7 +71,7 @@
 </script>
 
 <style>
-
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
   :root {
     --color-black: #1c1c1c;
     --color-highlight: rgba(249, 233, 172, 0.99);
