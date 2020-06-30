@@ -19,7 +19,7 @@ KÖRPER,<br>
 ERINNERUNG,<br>
 WIDERSTÄNDIGKEIT<br>
 in Zusammenarbeit mit<br>
-Raya G. Und Luz d. L.<br>
+Raja G. Und Luz d. L.<br>
 Aus dem Wintersemester 2019/2020<br>
 <br>
 </p>
@@ -61,7 +61,9 @@ Wenn ich will!<br>
 <img :src="$withBase('/upload/4-6.jpg')" style="  margin-left:auto ;margin-right: 200px;max-width:700px; display: block;">
 <img :src="$withBase('/upload/4-7.png')" style="  margin-left:auto ;margin-right: 200px;max-width:700px; display: block;">
 
-
+<p style=" font-size: 12px; text-align:right;margin-right: 50px;">
+<br> <br> <br>
+Zeichnungen: Raja Goltz</p> 
 
 
 

@@ -76,7 +76,7 @@ Performance?<br>
 <iframe src="https://player.vimeo.com/video/432787866" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <iframe src="https://player.vimeo.com/video/432787713" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-<p style=" font-size: 13px; text-align:right;margin-right: 50px;">
+<p style=" font-size: 12px; text-align:right;margin-right: 50px;">
 <br> <br> <br>
 Die Fotos habe ich mit einer Einmal-Kamera gemacht. <br>
 Die Voice-Aufnahmen stammen von meinen Übernachtungs-Hosts Charly, Abd, Mama, Julieta, Franz und Atefeh.</p> 

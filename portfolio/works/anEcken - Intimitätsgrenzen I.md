@@ -87,10 +87,10 @@ MEINPERSÖNLICHERKÖRPER!
 ist
 EINPOLITISCHERKÖRPER!
 ist
-MEINPERSÖNLICHERKÖRPER! <br>
+MEINPERSÖNLICHERKÖRPER! 
 ist
 EINPOLITISCHERKÖRPER!
-ist
+ist<br>
 MEINPERSÖNLICHERKÖRPER!
 ist
 EINPOLITISCHERKÖRPER!
@@ -200,5 +200,7 @@ Bertolt Brecht 1940/41
 </p>
 
 
-
+<p style=" font-size: 12px; text-align:right;margin-right: 50px;">
+<br> <br> <br>
+Fotos: Christoph Jäger</p> 
 

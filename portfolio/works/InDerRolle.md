@@ -144,6 +144,10 @@ die uns ermöglichen sollen, uns aus den Rollen Stück für Stück zu lösen.
 <iframe src="https://player.vimeo.com/video/432788922" width="840" height="680" frameborder="0" allow="autoplay; fullscreen" allowfullscreen style ="margin:0 auto ; display: block;"></iframe>
 
 
-
+<p style=" font-size: 12px; text-align:right;margin-right: 50px;">
+<br> <br> <br>
+Fotos: Wenke W. <br>
+Video: Shirin Ö. 
+</p> 
 
 
