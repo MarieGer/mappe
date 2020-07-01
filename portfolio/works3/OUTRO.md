@@ -19,12 +19,11 @@ sich radikal verunsichern lassen?
 </p>
 
 <p style="text-align:left;margin-left: 100px;">
-Es ist die Verunsicherung, <br>
-die uns Veränderung bringen kann.
+Verunsicherung bringt Veränderung bringt Verunsicherung bringt Veränderung bringt Verunsicherung bringt Veränderung bringt Verunsicherung bringt Veränderung bringt Verunsicherung bringt Veränderung bringt
 </p>
 
 <p style="text-align:right;margin-right: 50px;">
-Für radikale Veränderung[!] <br> 
+radikale Veränderung[!] <br> 
 ...des eigenen Blickes <br> 
 ...des eigenen Wissens <br> 
 ...der eigenen künstlerischen Praxis<br> 
@@ -105,7 +104,7 @@ Bereicherung<br>
 
 <p style="text-align:left;margin-left: 100px;">
 <br> 
-Was sind meine Mittel, um ungewöhnliche, mir selbst ungewohnte, Sichtweisen<br> 
+Was sind unsere Mittel, um ungewöhnliche, mir selbst ungewohnte, Sichtweisen<br> 
 auf unsere Wahrnehmung von Wirklichkeit erzeugen zu können?
 </p>
 
@@ -156,7 +155,7 @@ schräg.
 Was, wenn es mein schräger Blick ist? Die Schwelle, die es abzubauen gilt? <br>
 Was passiert, wenn ich dem Gefälle einen Spiegel gegenüberstelle, und somit die Richtung verändere? <br>
 Immer noch, von Oben nach Unten. <br>
-Ich will mir den Verlauf der Schräge noch viel genauer ansehen, anstelle von dem, was ich am unteren Ende erwarte.
+Ich will mir den Verlauf der Schräge noch viel genauer ansehen, anstelle von dem, was ich am unteren Ende erwarte. <br><br>
 </p>
 
 <img :src="$withBase('/upload/6-5.jpg')" style="  margin-left: 150px;margin-right: auto;max-width:400px; display: block;"> 
@@ -167,9 +166,9 @@ Mein Weißsein schafft mir Zugang zu Ressourcen.<br>
 Ich muss mir diesen Zugang nicht erkämpfen.<br> 
 Meine abled-bodiedness schafft mir Zugang zu Räumen.<br> 
 Ich brauche mir diese Räume nicht zu erkämpfen.<br> 
-Die Tatsache, dass ich hiermit gerade ein Hochschul-Studium abschließe,<br> 
+Die Tatsache, dass ich hier gerade ein Hochschul-Studium abschließe,<br> 
 schafft mir Zugang zu Wissen.<br> 
-Ich muss mir dieses Wissen nicht erkämpfen.
+Ich brauchte mir dieses Wissen nicht erkämpfen.
 </p>
 
 <img :src="$withBase('/upload/6-6.jpg')" style="  margin-left: auto;margin-right: 150px;max-width:300px; display: block;"> 
@@ -183,7 +182,7 @@ zu verlernen.<br> <br> <br>
 
 Darum endet diese Seite auch mit einer Stimme, die nicht meine eigene ist. <br> 
 Eine Künstlerin, der ich einmal zugehört habe und notiert habe,<br> 
-auf dem Weg des Verstehens, das ich nicht verstehe.<br> 
+auf dem Weg des Verstehens, dass ich nicht verstehe.<br> 
 
 Radikal träumen.<br> 
 </p>
