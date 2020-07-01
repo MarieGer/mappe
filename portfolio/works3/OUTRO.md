@@ -88,7 +88,7 @@ Gewalt!
 <p style="text-align:left;margin-left: 400px;">
 <br> 
 Sprechbarkeiten.<br> 
-Sagbarkeiten.<br> 
+Sichtbarkeiten.<br> 
 Sehgewohnheiten.<br> 
 </p>
 
@@ -96,7 +96,7 @@ Sehgewohnheiten.<br>
 <br> 
 Hier hinein,<br> 
 intervenieren.<br> 
-Will ich!<br> 
+Will ich!<br> <br>
 Kritik und Störung<br> 
 sind<br> 
 Bereicherung.<br> 
@@ -181,8 +181,8 @@ Ich will weiter lernen,<br>
 zu verlernen.<br> <br> <br>
 
 Darum endet diese Seite auch mit einer Stimme, die nicht meine eigene ist. <br> 
-Eine Künstlerin, der ich einmal zugehört habe und notiert habe,<br> 
-auf dem Weg des Verstehens, dass ich nicht verstehe.<br> 
+Eine Künstlerin, der ich einmal zugehört habe und notiert habe.<br> 
+Auf dem Weg des Verstehens, dass ich nicht verstehe.<br> 
 
 Radikal träumen.<br> 
 </p>
