@@ -54,7 +54,7 @@ Woher kommt unser Wissen?<br>
 Wessen Wissen zählt als Wissen?<br>
 </p>
 
-<img :src="$withBase('/upload/6-2.jpg')" style="  margin-left: auto;margin-right: 50px;max-width:350px; display: block;"> 
+<img :src="$withBase('/upload/6-2.jpg')" style="  margin-left: auto;margin-right: 50px;max-width:400px; display: block;"> 
 
 
 <p style="text-align:left;margin-left: 100px;">
@@ -99,7 +99,7 @@ intervenieren.<br>
 Will ich!<br> 
 Kritik und Störung<br> 
 sind<br> 
-Bereicherung<br> 
+Bereicherung.<br> 
 </p>
 
 <p style="text-align:left;margin-left: 100px;">
@@ -163,9 +163,9 @@ Ich will mir den Verlauf der Schräge noch viel genauer ansehen, anstelle von de
 <p style="text-align:left;margin-left: 20px;">
 <br> 
 Mein Weißsein schafft mir Zugang zu Ressourcen.<br> 
-Ich muss mir diesen Zugang nicht erkämpfen.<br> 
+Ich muss mir diesen Zugang nicht erkämpfen.<br> <br>
 Meine abled-bodiedness schafft mir Zugang zu Räumen.<br> 
-Ich brauche mir diese Räume nicht zu erkämpfen.<br> 
+Ich brauche mir diese Räume nicht zu erkämpfen.<br> <br>
 Die Tatsache, dass ich hier gerade ein Hochschul-Studium abschließe,<br> 
 schafft mir Zugang zu Wissen.<br> 
 Ich brauchte mir dieses Wissen nicht erkämpfen.

@@ -147,8 +147,8 @@ die uns ermöglichen sollen, uns aus den Rollen Stück für Stück zu lösen.
 
 <p style=" font-size: 12px; text-align:right;margin-right: 50px;">
 <br> <br> <br>
-Fotos: Wenke W. <br>
-Video: Sirin Ö. 
+In der Rolle - Fotos: Wenke W. <br>
+In der Rolle - Video: Sirin Ö. 
 </p> 
 
 

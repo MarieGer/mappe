@@ -123,8 +123,8 @@ PROVOKATION[?]
 Nachdem wir uns irgendwo auf der Schnittstelle <br>
 zwischen Forschen und Intervenieren <br>
 durch  Straßen, Shopping-Malls, Parkplätze, öffentliche Toiletten, <br>
-und vielleicht auch öffentliche Verkehrsmittel <br>
-bewegt hatten blieben wir am Flughafen. <br>
+und vielleicht auch öffentliche Verkehrsmittel bewegt hatten, <br>
+blieben wir am Flughafen. <br>
 </p>
 
 <img :src="$withBase('/upload/2-6.jpg')" style="  margin-left: auto;margin-right: 300px;max-width:350px; display: block;">
@@ -154,7 +154,7 @@ Mit leiser Stimme diskutierten wir mit dem ‚Sicherheits‘-Personal. <br>
 Dann mit der Polizei.
 „Ausweis Bitte!“</p>
 
-<img :src="$withBase('/upload/2-9.jpg')" style="  margin-left: 100px;margin-right: auto;max-width:700px; display: block;">
+<img :src="$withBase('/upload/2-9.JPG')" style="  margin-left: 100px;margin-right: auto;max-width:700px; display: block;">
 
 <p style="text-align:left;margin-left: 30px;"> 
 Für uns <br>
@@ -202,5 +202,5 @@ Bertolt Brecht 1940/41
 
 <p style=" font-size: 12px; text-align:right;margin-right: 50px;">
 <br> <br> <br>
-Fotos: Christoph Jäger</p> 
+Flughafen - Fotos: Christoph Jäger</p> 
 
