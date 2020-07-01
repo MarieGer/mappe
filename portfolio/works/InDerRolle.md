@@ -23,7 +23,8 @@ Wir möchten uns bedanken, "dass man uns an diesen Tagen hier aufs Land gebracht
 Danke! <br>
 "Wir können hier unser sein, und uns stundenlang in die goldene Zeit der Dichter träumen." <br>
 <br>
- (in Anführungszeichen: Zitate Torquato Tasso von J. W. Goethe)
+ (Text: in der Rolle; <br>  
+ in Anführungszeichen: Zitate Torquato Tasso von J. W. Goethe)
 </p>
 <br>
 <br>

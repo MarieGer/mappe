@@ -17,21 +17,21 @@ aus dem Wintersemester 2018/2019<br></p>
 
 <img :src="$withBase('/upload/3-2.jpg')" style="  margin-left: auto;margin-right: 50px;max-width:500px; display: block;">
 <p style="text-align:right;margin-right: 100px;">
-Titel?<br>
+Titel[?]<br>
 <br>
 aus<br> 
-Rücken-An-Rücken<br>
-wird<br>
 Tür-An-Tür<br>
 wird<br>
+Rücken-An-Rücken<br>
+wird<br>
 ZwischenNähe<br>
-?<br>
+<br>
 </p>
 
 <img :src="$withBase('/upload/3-3.jpg')" style="  margin-left:50px ;margin-right: auto;max-width:600px; display: block;">
 
 <p style="text-align:left;margin-left: 600px;">
-Forschung?<br>
+Forschung[?]<br>
 <br>
 sich näher kommen<br> 
 als<br> 
@@ -48,7 +48,7 @@ Hä?<br>
 <img :src="$withBase('/upload/3-4.jpg')" style="  margin-left:auto ;margin-right: 50px;max-width:600px; display: block;">
 
 <p style="text-align:left;margin-left: 100px;">
-Dokumentieren?<br>
+Dokumentieren[?]<br>
 <br>
 Nähe.<br>
 Festhalten<br>

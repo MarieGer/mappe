@@ -42,7 +42,7 @@ Die Bewegung wieder in Worte, Bilder, Geräusche transformieren?<br><br><br>
 <p style="text-align:right;margin-right: 30px;">
 Ein Körper, der nicht wie ein Blatt Papier in einer neuen Form verharrt. Resilient. <br><br>
 </p>
-<img :src="$withBase('/upload/4-5.jpg')" style="  margin-left: auto ;margin-right: 100px;max-width:400px; display: block;">
+<img :src="$withBase('/upload/4-5.jpg')" style="  margin-left: auto ;margin-right: 100px;max-width:600px; display: block;">
 
 
 <p style="text-align:right;margin-right: 50px;">
