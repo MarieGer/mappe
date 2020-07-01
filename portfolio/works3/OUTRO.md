@@ -169,10 +169,10 @@ Meine abled-bodiedness schafft mir Zugang zu Räumen.<br>
 Ich brauche mir diese Räume nicht zu erkämpfen.<br> 
 Die Tatsache, dass ich hiermit gerade ein Hochschul-Studium abschließe,<br> 
 schafft mir Zugang zu Wissen.<br> 
-Ich brauche mir dieses Wissen nicht erkämpfen.
+Ich muss mir dieses Wissen nicht erkämpfen.
 </p>
 
-<img :src="$withBase('/upload/6-6.jpg')" style="  margin-left: auto;margin-right: 50px;max-width:300px; display: block;"> 
+<img :src="$withBase('/upload/6-6.jpg')" style="  margin-left: auto;margin-right: 150px;max-width:300px; display: block;"> 
 
 <p style="text-align:left;margin-left: 200px;">
 <br> 
