@@ -17,9 +17,9 @@ und Konzeption eines Workshops<br>
 zum Thema<br>
 KÖRPER,<br>
 ERINNERUNG,<br>
-WIDERSTÄNDIGKEIT<br>
-in Zusammenarbeit mit<br>
-Raja G. Und Luz d. L.<br>
+WIDERSTÄNDIGKEIT.<br>
+In Zusammenarbeit mit<br>
+Raja G. Und Luz F.<br>
 Aus dem Wintersemester 2019/2020<br>
 <br>
 </p>

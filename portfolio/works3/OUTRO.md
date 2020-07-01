@@ -5,7 +5,7 @@ order: 4
 ---
 # Outro
 
-<img :src="$withBase('/upload/6-0.jpg')" style="  margin-left: auto;margin-right: auto;max-width:900px; display: block;"> 
+<img :src="$withBase('/upload/6-0.jpg')" style="  margin-left: auto;margin-right: auto;max-width:1024px; display: block;"> 
 
 <p style="text-align:left;margin-left: 20px;">
 <br> 
