@@ -21,7 +21,7 @@
       </div>
 
     </div>
-    <button href="#" @click="goBack" style="border: none; background: transparent; padding: 2rem; border-radius: 50%; margin-left: 5vw;"> Zurück</button>
+    <button href="#" @click="goBack" v-if="$route.path !== '/'" style="border: none; background: transparent; padding: 2rem; border-radius: 50%; margin-left: 5vw;"> Zurück</button>
     <Footer />
 
   </div>
