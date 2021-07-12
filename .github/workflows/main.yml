@@ -8,7 +8,7 @@ jobs:
       uses: actions/checkout@master
 
     - name: vuepress-deploy
-      uses: embracethequestionmark/vuepress-deploy@master
+      uses: embracethequestionmark/mappe
       env:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         TARGET_REPO: embracethequestionmark/mappe
