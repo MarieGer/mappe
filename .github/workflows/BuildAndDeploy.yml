@@ -11,7 +11,7 @@ jobs:
       uses: embracethequestionmark/mappe
       env:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-        TARGET_REPO: embracethequestionmark/mappe
+        TARGET_REPO: actions/checkout@v2
         TARGET_BRANCH: master
         BUILD_SCRIPT: yarn && yarn build
         BUILD_DIR: portfolio/.vuepress/dist/
