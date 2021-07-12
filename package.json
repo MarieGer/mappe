@@ -1,0 +1,13 @@
+{
+  "name": "mappe",
+  "scripts": {
+    "docs:build": "vuepress build portfolio",
+    "docs:dev": "vuepress dev portfolio"
+  },
+  "author": "Mahmoud Tamaa",
+  "license": "MIT",
+  "dependencies": {
+    "vuepress": "^1.8.2",
+    "webpack-dev-middleware": "3.6.0"
+  }
+}
