@@ -1,6 +1,6 @@
 ---
 works_index: true
-hero_text: "<strong>Portfolio</strong>"
+hero_text: "<strong>Marie Gerwing <br> Portfolio</strong>"
 title: Home
 
 ---

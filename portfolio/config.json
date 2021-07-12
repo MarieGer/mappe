@@ -2,7 +2,7 @@
     "title": "Marie Gerwing",
     "description": "Portfolio",
     "logo": "/favicon-32x32.png",
-    "footer": "",
+    "footer": "Inhalt und Design: Marie Gerwing",
     "favicon": "favicon-32x32.png",
     "navigation": [
       {
@@ -20,6 +20,12 @@
       {
         "text": "Workshops",
         "link": "/works3/WORKSHOPS",
+        "position": "left",
+        "external": false
+      },
+      {
+        "text": "Other",
+        "link": "/works4/Other",
         "position": "left",
         "external": false
       }

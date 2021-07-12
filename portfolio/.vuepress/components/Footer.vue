@@ -6,7 +6,7 @@
   .text {
     display: block;
     font-size: 0.8rem;
-    text-align: left;
+    text-align: right;
     padding: 4rem 5vw;
   }
 </style>
